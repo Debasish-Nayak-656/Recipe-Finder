@@ -22,7 +22,7 @@ A responsive web application that helps users discover recipes quickly by search
 - HTML5
 - CSS3
 - JavaScript
-- Recipe API (if used)
+
 
 ---
 
