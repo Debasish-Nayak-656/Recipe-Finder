@@ -7,7 +7,7 @@ A responsive web application that helps users discover recipes quickly by search
 
 ## 🚀 Features
 
-- 🔍 Search recipes by name
+- 🔍 Search recipes by their name
 - 🥗 Explore recipes from different cuisines
 - 📋 View ingredients list
 - 👨‍🍳 Step-by-step cooking instructions
